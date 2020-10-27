@@ -2,6 +2,8 @@
 
 ## 👯 Let's build games and solve AI
 
+* Google Certified TensorFlow Developer [<img align="left" alt="TensorFlow Developer Certificate" width="22px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/24698011" />][certtfdev] 
+
 ---
 
 ### Connect with me:
@@ -33,3 +35,4 @@
 [youtube]: https://www.youtube.com/channel/UCLS7pKUiN9FFEMyMGR7klmw
 [itch]: https://andreybicalho.itch.io/
 [github]: https://github.com/andreybicalho/andreybicalho
+[certtfdev]: https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/24698011
