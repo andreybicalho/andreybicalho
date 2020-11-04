@@ -2,7 +2,7 @@
 
 ## 👯 Let's build games and solve AI
 
-* Google Certified TensorFlow Developer [<img align="left" alt="TensorFlow Developer Certificate" width="22px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/24698011" />][certtfdev] 
+* Google Certified TensorFlow Developer [<img align="left" alt="TensorFlow Developer Certificate" width="28px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/24698011" />][certtfdev] 
 
 ---
 
